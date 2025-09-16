@@ -1,0 +1,28 @@
+{
+  "name": "Night-Sky",
+  "displayName": "Night-Sky",
+  "description": "The theme of the Night",
+  "version": "0.0.1",
+  "publisher": "AnshifP",
+  "icon": "images/night-sky-logo.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Sky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Sky-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Anshif-Niju/vscode-night-sky-theme.git"
+  },
+  "license":"MIT"
+}
